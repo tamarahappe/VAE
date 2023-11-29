@@ -28,7 +28,7 @@ The trained model is saved in the following file:
 
 The repository provides code to process raw heatwave data and convert it into TensorFlow records (`tf_records`). The code is organized as follows:
 
-- DATA/HEATWAVES/tf_records.py: This script processes raw heatwave data and generates TensorFlow records for training the Variational Convolutional Autoencoder. Please note that the raw data (KNMI-LENTIS) is needed to obtain the TensorFlow records. 
+- DATA/HEATWAVES/TF_records.py: This script processes raw heatwave data and generates TensorFlow records for training the Variational Convolutional Autoencoder. Please note that the raw data (KNMI-LENTIS) is needed to obtain the TensorFlow records. 
 
 ### Heatwave Data
 
