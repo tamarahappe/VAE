@@ -1,4 +1,4 @@
-# Variational Convolutional Autoencoder for 3D Heatwave Data
+# Variational Convolutional Autoencoder to extract key features from 3D Heatwave Data
 
 ## Overview
 
